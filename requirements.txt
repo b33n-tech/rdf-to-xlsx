@@ -1,3 +1,5 @@
-rdflib
+streamlit
 pandas
+beautifulsoup4
+lxml
 openpyxl
